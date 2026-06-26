@@ -66,10 +66,10 @@ The Interface (Python): The desktop app subscribes to the sensor topics to updat
 
 📸 Project Showcase
 
-<img width="556" height="962" alt="Dashboard view" src="https://github.com/user-attachments/assets/7c590fd2-26a1-41bc-852c-ebf85e5640ce" />
-<img width="899" height="1599" alt="WhatsApp Image 2026-06-26 at 20 20 29" src="https://github.com/user-attachments/assets/44b42f99-2aae-4d04-8a5f-4fab7086fe9d" />
-<img width="899" height="1599" alt="WhatsApp Image 2026-06-26 at 20 20 29" src="https://github.com/user-attachments/assets/6a2eb29b-4cde-496f-a5e4-45cf58a63015" />
-<img width="1599" height="899" alt="WhatsApp Image 2026-06-26 at 20 20 29 (1)" src="https://github.com/user-attachments/assets/18cfb8ac-806b-4ca2-b48e-d5c0659ebbd4" />
+<img width="150" height="200" alt="Dashboard view" src="https://github.com/user-attachments/assets/7c590fd2-26a1-41bc-852c-ebf85e5640ce" />
+<img width="150" height="200" alt="WhatsApp Image 2026-06-26 at 20 20 29" src="https://github.com/user-attachments/assets/44b42f99-2aae-4d04-8a5f-4fab7086fe9d" />
+<img width="150" height="200" alt="WhatsApp Image 2026-06-26 at 20 20 29" src="https://github.com/user-attachments/assets/6a2eb29b-4cde-496f-a5e4-45cf58a63015" />
+<img width="150" height="200" alt="WhatsApp Image 2026-06-26 at 20 20 29 (1)" src="https://github.com/user-attachments/assets/18cfb8ac-806b-4ca2-b48e-d5c0659ebbd4" />
 
 
 Developed by Hajar Cherouat
