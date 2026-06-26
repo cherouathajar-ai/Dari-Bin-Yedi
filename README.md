@@ -79,7 +79,7 @@ The Interface (Python): The desktop app subscribes to the sensor topics to updat
   <p><i>Figure 3: Oled display</i></p>
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6a2eb29b-4cde-496f-a5e4-45cf58a63015" width="400">
+  <img src="https://github.com/user-attachments/assets/4be1a82b-bd64-47f7-910f-7bfd064a16f1" width="400">
   <p><i>Figure 4: Telegram Bot</i></p>
 </div>
 developed by Hajar Cherouat
